@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_type_2">2声</string>
+    <string name="sound_type_3">3声</string>
+    <string name="sound_type_4">4声</string>
+    <string name="sound_type_5">5声</string>
+    <string name="sound_type_6">6声</string>
+    <string name="sound_type_7">7声</string>
+    <string name="sound_type_8">8声</string>
+</resources>
